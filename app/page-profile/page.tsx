@@ -11,37 +11,37 @@ const highlights = [
 
 const posts = [
   {
-    src: "/konten-medsos-1.png",
+    src: "/konten-medsos-1.PNG",
     type: "image",
     caption: "(jadwal open trip) September S nya apa? SAILING BARENG SALT & SAIL LAH😎 Selain ngasih makan Instagram, kita juga perlu ngasih makan mental health kita loh! Salah satunya ya refreshing liat alam. Coba cek jadwal trip kita siapa tau cocok sama tanggal libur kamu🫣 Cus keburu seat nya habis!",
     hashtag: "#opentrip #traveling #september #opentripbali #saltnsail",
   },
   {
-    src: "/konten-medsos-5.mov",
+    src: "/konten-medsos-5.MOV",
     type: "video",
     caption: "(dia sibuk cari yg baru) Coba tag temen kamu yang kaya gini!😭",
     hashtag: "#fyp #opentrip #saltnsail #pulauharapan #pulaupahawang",
   },
   {
-    src: "/konten-medsos-3.png",
+    src: "/konten-medsos-3.PNG",
     type: "image",
     caption: "(kuis berhadiah) 3 TRIP GRATIS UNTUK 3 PEMENANG‼️ CARA IKUTAN 1. Follow Instagram @saltnsail.id (wajib, akan dicek). 2. ⁠Like postingan ini. 3. ⁠Tulis jawaban kamu dan mention 1 orang teman kamu di kolom komentar. S&K PEMENANG 1. Pemenang diambil berdasarkan undian dari komentar yang jawabannya benar dan memenuhi syarat! 2. ⁠Apabila syarat tidak lengkap maka dinyatakan gugur. GAMPANG BANGET NGGAK SIH? Batas Waktu 31 Agustus 2026 Pukul 23.59 RUGI BANGET KALO KETINGGALAN!!!",
     hashtag: "#kuisberhadiah #saltnsail #tripgratis",
   },
   {
-    src: "/konten-medsos-4.png",
+    src: "/konten-medsos-4.PNG",
     type: "image",
     caption: "(jangan lupa nyenengin diri bestie) Tutorial tetap chill di era gempuran ini😭 Btw jadinya udah booking belum? Keburu full!",
     hashtag: "#opentrip #opentripbali #nusapenida #saltnsail",
   },
   {
-    src: "/video-1.mov",
+    src: "/video-1.MOV",
     type: "video",
     caption: "(REELS SNORKLING) Kapan lagi bisa Snorkeling 200 ribuan? Tag temen kamu yang sukanya bilang mau snorkeling!😭",
     hashtag: "#snorkeling #opentrip #snorkelingbali #wisatalaut #saltnsail",
   },
   {
-    src: "/konten-medsos-6.png",
+    src: "/konten-medsos-6.PNG",
     type: "image",
     caption: "(nusa penida) SAILMATES IS CALLING‼️Yang punya wishlist ke Nusa Penida tahun ini, sini-sini kumpul! ada info menarik! Budget 500k an udah bisa seharian penuh keliling Nusa Penida dengan full fasilitas, jadi tinggal duduk manis menikmati pemandangan🥹 Save postingan ini buat referensi liburan kamu! Jangan lupa booking sebelum kehabisan🤫",
     hashtag: "#opentrip #opentripbali #nusapenida #travelingindonesia #saltnsail",
@@ -226,8 +226,8 @@ export default function ProfilePage() {
         <Image
           src={
             index === 0
-              ? "/highlight-1.png"
-              : "/highlight-2.png"
+              ? "/highlight-1.PNG"
+              : "/highlight-2.PNG"
           }
           alt={item}
           width={100}
