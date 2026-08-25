@@ -218,7 +218,7 @@ Karena visual yang baik dapat mempengaruhi first impression.
 
        <div className="portfolio-image tall">
          <video
-    src="/video-1.MOV"
+    src="/video-1.mov"
     controls
     autoPlay
     muted
