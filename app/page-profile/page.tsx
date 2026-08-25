@@ -359,7 +359,7 @@ export default function ProfilePage() {
         <div className="instagram-user">
 
           <Image
-            src="/nasywa.png"
+            src="/photoprofile.png"
             alt="Salt&Sail"
             width={45}
             height={45}
