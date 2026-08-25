@@ -17,7 +17,7 @@ const posts = [
     hashtag: "#opentrip #traveling #september #opentripbali #saltnsail",
   },
   {
-    src: "/konten-medsos-5.mov",
+    src: "/konten-medsos-5.mp4",
     type: "video",
     caption: "(dia sibuk cari yg baru) Coba tag temen kamu yang kaya gini!😭",
     hashtag: "#fyp #opentrip #saltnsail #pulauharapan #pulaupahawang",
@@ -35,7 +35,7 @@ const posts = [
     hashtag: "#opentrip #opentripbali #nusapenida #saltnsail",
   },
   {
-    src: "/video-1.mov",
+    src: "/video-1.mp4",
     type: "video",
     caption: "(REELS SNORKLING) Kapan lagi bisa Snorkeling 200 ribuan? Tag temen kamu yang sukanya bilang mau snorkeling!😭",
     hashtag: "#snorkeling #opentrip #snorkelingbali #wisatalaut #saltnsail",
