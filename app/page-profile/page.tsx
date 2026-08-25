@@ -35,7 +35,7 @@ const posts = [
     hashtag: "#opentrip #opentripbali #nusapenida #saltnsail",
   },
   {
-    src: "/video-1.MOV",
+    src: "/video-1.mov",
     type: "video",
     caption: "(REELS SNORKLING) Kapan lagi bisa Snorkeling 200 ribuan? Tag temen kamu yang sukanya bilang mau snorkeling!😭",
     hashtag: "#snorkeling #opentrip #snorkelingbali #wisatalaut #saltnsail",
